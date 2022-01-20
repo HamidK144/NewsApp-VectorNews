@@ -1,0 +1,32 @@
+.notexist-container{
+
+    width: 790px !important;
+    margin-left: 310px;
+    margin-top: 36px;
+    margin-right: 500px;
+
+}
+
+
+@media only screen and (max-width: 700px){
+
+   .notexist-container{
+       margin-left: 100px !important; 
+       padding-right: 200px;  
+   }
+
+   .notexist-image{
+margin-top: 80px;
+  width: 250px !important;
+  height: auto !important;
+
+   }
+
+
+   .notexist-text{
+       font-size: 18px !important;
+   }
+ }
+
+
+

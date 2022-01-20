@@ -1,0 +1,13 @@
+.SideBar-newscontainer{
+    height: 380px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+
+    
+    border: 0.3px solid rgba(68, 84, 110, 0.664) ;
+    border-radius: 15px;
+
+
+}

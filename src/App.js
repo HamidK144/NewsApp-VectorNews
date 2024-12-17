@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
+import Layout from "./layout/Layout";
 
-function App() {
-  return (
-    <div className="App">
-     {/* All components has been called in Index.js */}
-    </div>
-  );
+class App extends Component {
+  render() {
+    return <Layout />;
+  }
 }
 
 export default App;
